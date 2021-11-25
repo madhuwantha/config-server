@@ -7,5 +7,5 @@
   instance:
     hostname: localhost
 
-message: Welcome to Dev env...!!!
-world: Dev world
+ message: Welcome to Dev env...!!!
+ world: Dev world
